@@ -37,4 +37,4 @@ To change masks, press the 1, 2 or 3 keys.
 __The Team who continute to work on this__
 - [@Lefleur05](https://github.com/Lefleur05)
 - [@MedyHanne](https://github.com/MedyHanne)
-- Alix Lefoulon
+- [@AlixLFL](https://github.com/AlixLFL)
