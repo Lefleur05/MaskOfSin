@@ -1,7 +1,7 @@
 # Mask Of Sin
-__A Game Jame Project, with the Theme Mask.__  
+__A Game Jam 2026 Project, with the Theme Mask.__  
 You can find the people who worked on this game during the Game Jam on the official Game Jam website: [GameLink](https://globalgamejam.org/games/2026/mask-sin-1).  
-The game is fusion with doom and a bit them all
+This game is a mix of Doom and Bit Them All
 <img width="1918" height="1079" alt="image" src="https://github.com/user-attachments/assets/1a35607d-fea7-4d86-b05c-e6a287299ce1" />
 ## The Game
 A wave of enemies attacks you and you must survive as many waves as possible.  
