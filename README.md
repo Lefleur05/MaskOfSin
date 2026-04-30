@@ -5,6 +5,10 @@ The game is fusion with doom and a bit them all
 <img width="1918" height="1079" alt="image" src="https://github.com/user-attachments/assets/1a35607d-fea7-4d86-b05c-e6a287299ce1" />
 ## The Game
 A wave of enemies attacks you and you must survive as many waves as possible.  
+
+##Demo
+Video Demo of the game: https://www.youtube.com/watch?v=LGgRMbj5dDE
+
 #### Player  
 The player can shoot, jump and dash.  
 You can choose between 3 masks that have different effects on you.  
